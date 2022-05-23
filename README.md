@@ -1,2 +1,0 @@
-# Array
-by ADHITYAVARMAN
